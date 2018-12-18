@@ -1,0 +1,19 @@
+Version 1 (Titanic1.py)
+
+Basic SVM
+Missing age replaced with average
+Delete cabin and ticket rows
+
+Validating with [801:891]
+Errors: 17/90 
+
+#############################################
+
+Version 2 (Titanic2.py)
+
+Basic SVM
+Tuned feature values
+Delete cabin and ticket rows
+
+Submission result:
+Test accuracy: 0.67942
